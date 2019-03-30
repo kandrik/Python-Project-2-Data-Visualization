@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# specific generated files for this project
+dice_visual.svg
+squares_plt.png
+
 # C extensions
 *.so
 

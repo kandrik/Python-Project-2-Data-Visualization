@@ -1,1 +1,1 @@
-# Pytrhon-Project-2-Data-Visualization
+# Python-Project-2-Data-Visualization
