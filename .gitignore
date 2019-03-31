@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # specific generated files for this project
-dice_visual.svg
+*.svg
 squares_plt.png
 
 # C extensions
